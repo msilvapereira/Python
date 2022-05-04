@@ -66,6 +66,3 @@ if d >= 10:
     d = int(input('Você digitou uma nota errada. Digite novamente...\n\nQuarto bimestre: '))
 media = (a + b + c + d) / 4
 print('Media: {}'.format(media))
-
-
-    
