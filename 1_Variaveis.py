@@ -45,3 +45,4 @@ resultado = ('soma: {soma}'
     '\nresto: {resto}'.format(soma=soma, sub=sub, multi=multi, div=div, resto=resto)) 
 
 print(resultado)
+
