@@ -2,7 +2,7 @@
 
 # 1. Aprender sobre listas
 # 2. Aprender sobre tuplas
-# 3. Aplicabilidade de listas e tuplas
+# 3. Aplicabilidade de listas e tuplas 
 
 #lista = [12, 10, 7, 5]
 #lista_animal = ['cachorro', 'gato', 'elefante', 'lobo', 'arara']
