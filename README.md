@@ -7,6 +7,5 @@ IDE utilizada: Visual Studio Code
 Contato para dúvidas e sugestões
 Gmail: mariaeduarda.art18@gmail.com
 Instagram: @narapoemx
-Twitter: @dezfestusart
 
 Aproveitem e bons estudos!
